@@ -1,0 +1,24 @@
+/* Navbar */
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar-s1 img{
+    width: 200px;
+
+}
+.navbar-s2{
+    display: flex;
+    gap: 20px;
+    
+}
+button{
+    all: unset;
+    background-color: green;
+    color: whitesmoke;
+    border-radius: 20px;
+    padding: 10px;
+}
